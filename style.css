@@ -1,0 +1,16 @@
+body {
+  border: 4px dotted purple;
+  background-image: url("https://www.freevector.com/uploads/vector/preview/18254/DD-Pink-Sparkle-Background-30012-Preview.jpg");
+}
+h1 {
+  align-content: center;
+  color: purple;
+  font-family: Impact, Charcoal, sans-serif;
+  font-size: 100px;
+}
+.red {
+  color: orangered;
+  align-content: center;
+  font-size: 60px;
+  font-family: "Comic Sans MS", cursive, sans-serif
+}
